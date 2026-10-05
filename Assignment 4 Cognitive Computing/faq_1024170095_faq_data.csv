@@ -1,0 +1,5 @@
+question,answer,keywords,category
+what is the annual fee,The annual fee is Rs 500.,"['fee', 'cost', 'annual', 'charges']",billing
+how to reset password,Go to Settings > Reset Password.,"['password', 'reset', 'login']",account
+what are your working hours,Our working hours are 9 AM to 5 PM.,"['hours', 'timing', 'open time']",general
+how can i pay the fee,"You can pay via UPI, card, or net banking.","['pay', 'payment', 'fee']",billing
